@@ -9,11 +9,11 @@ from great_expectations.render.renderer import ValidationResultsPageRenderer
 from great_expectations.render.view import DefaultJinjaPageView
 
 # Configurar conexão com o banco de dados PostgreSQL
-host = "localhost"  
-port = "5631"  
-db_name = "dsadb"
-user = "dsaadmin"
-password = "dsa1010"
+host = ""  
+port = ""  
+db_name = ""
+user = ""
+password = ""
 
 # String de conexão
 connection_string = f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{db_name}"
