@@ -1,4 +1,4 @@
-# Lab 4 - Processo de Governança e Qualidade de Dados no Data Warehouse
+#Processo de Governança e Qualidade de Dados no Data Warehouse
 
 # Imports
 import yaml
